@@ -103,6 +103,7 @@ class Comparator(str, Enum):
     LTE = "lte"
     CONTAIN = "contain"
     LIKE = "like"
+    ILIKE = "ilike"
     IN = "in"
     NIN = "nin"
 
